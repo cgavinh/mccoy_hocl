@@ -3,7 +3,7 @@
 #SBATCH --nodes=1 
 #SBATCH --time=3:00:00
 #SBATCH --mem=128G
-#SBATCH --chdir=/gscratch/ilahie/mccoygrp/hocl/eq_jobs/coire/
+#SBATCH --chdir=/gscratch/ilahie/mccoygrp/coire_hocl/
 #SBATCH --partition=ilahie
 #SBATCH --account=ilahie
 
@@ -22,4 +22,4 @@ echo "**********************************************"
 #g16  ihod-_pp.gjf
 #g16  clhod-_tz.gjf
 #g16  brhod-_tz.gjf
-g16 clhocl-_sc15.gjf
+g16 clhocl-_tz.gjf
