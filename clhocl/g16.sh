@@ -22,5 +22,5 @@ echo "**********************************************"
 #g16  ihod-_pp.gjf
 #g16  clhod-_tz.gjf
 #g16  brhod-_tz.gjf
-g16 clhocl_0_opt.gjf
+#g16 clhocl_0_opt.gjf
 g16 clhocl_15_opt.gjf
