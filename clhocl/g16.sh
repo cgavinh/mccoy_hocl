@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=br-hod
+#SBATCH --job-name=clhocl
 #SBATCH --nodes=1 
 #SBATCH --time=3:00:00
 #SBATCH --mem=128G
@@ -22,4 +22,4 @@ echo "**********************************************"
 #g16  ihod-_pp.gjf
 #g16  clhod-_tz.gjf
 #g16  brhod-_tz.gjf
-g16 clhocl-_tz.gjf
+g16 clhocl-_0_sp.gjf
