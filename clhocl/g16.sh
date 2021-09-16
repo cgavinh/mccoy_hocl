@@ -24,5 +24,13 @@ echo "**********************************************"
 #g16  brhod-_tz.gjf
 #g16 clhocl_0_opt.gjf
 #g16 clhocl_15_opt.gjf
-g16 clhocl_0_sp.gjf
-g16 clhocl_15_sp.gjf
+#g16 clhocl_0_sp.gjf
+#g16 clhocl_15_sp.gjf
+#g16 clhocl_30_opt.gjf
+#g16 clhocl_45_opt.gjf
+#g16 clhocl_60_opt.gjf
+#g16 clhocl_75_opt.gjf
+g16 clhocl_30_sp.gjf
+g16 clhocl_45_sp.gjf
+g16 clhocl_60_sp.gjf
+g16 clhocl_75_sp.gjf
