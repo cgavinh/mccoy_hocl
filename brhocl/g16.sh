@@ -1,9 +1,9 @@
 #!/bin/bash
-#SBATCH --job-name=br-hod
+#SBATCH --job-name=brhocl
 #SBATCH --nodes=1 
 #SBATCH --time=3:00:00
 #SBATCH --mem=128G
-#SBATCH --chdir=/gscratch/ilahie/mccoygrp/coire_hocl/
+#SBATCH --chdir=/gscratch/ilahie/mccoygrp/coire_hocl/brhocl/
 #SBATCH --partition=ilahie
 #SBATCH --account=ilahie
 
@@ -19,7 +19,16 @@ set
 echo "**********************************************" 
 
 # run Gaussian
-#g16  ihod-_pp.gjf
-#g16  clhod-_tz.gjf
-#g16  brhod-_tz.gjf
-g16 clhocl-_tz.gjf
+g16 brhocl_0_sp.gjf
+g16 brhocl_5_sp.gjf
+g16 brhocl_10_sp.gjf
+g16 brhocl_15_sp.gjf
+g16 brhocl_20_sp.gjf
+g16 brhocl_25_sp.gjf
+g16 brhocl_30_sp.gjf
+g16 brhocl_35_sp.gjf
+g16 brhocl_40_sp.gjf
+g16 brhocl_45_sp.gjf
+g16 brhocl_50_sp.gjf
+#g16 brhocl_rOH_opt.gjf
+
