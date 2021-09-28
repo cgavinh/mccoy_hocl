@@ -20,7 +20,7 @@ echo "**********************************************"
 
 # run Gaussian
 #g16 ihocl_0_opt.gjf
-#g16 ihocl_0_sp.gjf
+g16 ihocl_0_sp.gjf
 #g16 ihocl_5_sp.gjf
 #g16 ihocl_10_sp.gjf
 #g16 ihocl_15_sp.gjf
@@ -31,5 +31,5 @@ echo "**********************************************"
 #g16 ihocl_40_sp.gjf
 #g16 ihocl_45_sp.gjf
 #g16 ihocl_50_sp.gjf
-g16 ihocl_rOH_opt.gjf
+#g16 ihocl_rOH_opt.gjf
 
