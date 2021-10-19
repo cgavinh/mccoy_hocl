@@ -19,17 +19,5 @@ set
 echo "**********************************************" 
 
 # run Gaussian
-#g16 clhod_oop_s.gjf
-g16 clhod_oop_00_sp.gjf
-g16 clhod_oop_05_sp.gjf
-g16 clhod_oop_10_sp.gjf
-g16 clhod_oop_15_sp.gjf
-g16 clhod_oop_20_sp.gjf
-g16 clhod_oop_25_sp.gjf
-g16 clhod_oop_30_sp.gjf
-g16 clhod_oop_35_sp.gjf
-g16 clhod_oop_40_sp.gjf
-g16 clhod_oop_45_sp.gjf
-g16 clhod_oop_50_sp.gjf
-
-
+#g16 clhod_0_opt.gjf
+g16 clhod_oop_sp.gjf
