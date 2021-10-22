@@ -3,7 +3,7 @@
 #SBATCH --nodes=1 
 #SBATCH --time=3:00:00
 #SBATCH --mem=128G
-#SBATCH --chdir=/gscratch/ilahie/mccoygrp/coire_hocl/clhocl/
+#SBATCH --chdir=/gscratch/ilahie/mccoygrp/coire_hocl/oop_s_rOH_opt/clhocl/
 #SBATCH --partition=ilahie
 #SBATCH --account=ilahie
 
@@ -35,16 +35,16 @@ echo "**********************************************"
 #g16 clhocl_60_sp.gjf
 #g16 clhocl_75_sp.gjf
 #g16 clhocl_rOH_opt.gjf
-g16 clhocl_0_sp.gjf
-g16 clhocl_5_sp.gjf
-g16 clhocl_10_sp.gjf
-g16 clhocl_15_sp.gjf
-g16 clhocl_20_sp.gjf
-g16 clhocl_25_sp.gjf
-g16 clhocl_30_sp.gjf
-g16 clhocl_35_sp.gjf
-g16 clhocl_40_sp.gjf
-g16 clhocl_45_sp.gjf
-g16 clhocl_50_sp.gjf
-
+#g16 clhocl_0_sp.gjf
+#g16 clhocl_5_sp.gjf
+#g16 clhocl_10_sp.gjf
+#g16 clhocl_15_sp.gjf
+#g16 clhocl_20_sp.gjf
+#g16 clhocl_25_sp.gjf
+#g16 clhocl_30_sp.gjf
+#g16 clhocl_35_sp.gjf
+#g16 clhocl_40_sp.gjf
+#g16 clhocl_45_sp.gjf
+#g16 clhocl_50_sp.gjf
+g16 clhocl_oop_s.gjf
 
