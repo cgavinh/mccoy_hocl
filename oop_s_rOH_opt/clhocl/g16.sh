@@ -46,5 +46,6 @@ echo "**********************************************"
 #g16 clhocl_40_sp.gjf
 #g16 clhocl_45_sp.gjf
 #g16 clhocl_50_sp.gjf
-g16 clhocl_oop_s.gjf
+#g16 clhocl_oop_s.gjf
+g16 clhocl_oop_freq.gjf
 
