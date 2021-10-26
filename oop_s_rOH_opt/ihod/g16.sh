@@ -31,5 +31,5 @@ g16 ihod_oop_35_sp.gjf
 g16 ihod_oop_40_sp.gjf
 g16 ihod_oop_45_sp.gjf
 g16 ihod_oop_50_sp.gjf
-
+#g16 ihod_0_opt.gjf
 
