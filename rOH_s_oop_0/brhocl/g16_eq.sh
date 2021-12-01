@@ -20,4 +20,5 @@ echo "**********************************************"
 
 #run Gaussian Jobs
 
-g16 brhocl_rOH_eq_sp.gjf
+#g16 brhocl_rOH_eq_sp.gjf
+g16 brhocl_rOH_s_05-20.gjf
