@@ -19,4 +19,4 @@ set
 echo "**********************************************" 
 
 # run Gaussian
-g16 clhocl_fully_relaxed.gjf
+g16 clhod_fully_relaxed.gjf
