@@ -19,8 +19,11 @@ set
 echo "**********************************************" 
 
 # run Gaussian
-g16 clhocl_0_sp.gjf
-formchk clhocl_0_sp.chk
-
+#g16 clhocl_0_sp.gjf
+#formchk clhocl_0_sp.chk
+g16 clhocl_10_sp.gjf
+formchk clhocl_10_sp.chk
+g16 clhocl_20_sp.gjf
+formchk clhocl_20_sp.chk
 
 
