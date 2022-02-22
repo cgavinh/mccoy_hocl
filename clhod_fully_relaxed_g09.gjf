@@ -1,0 +1,41 @@
+JOB=br0
+g09 << EOF
+%nproc=12
+%mem=8000MB
+%chk=/home/netid.washington.edu/cgavinh/mccoy_hocl/clhod_fully_relaxed_g09.chk 
+#p opt=(z-matrix) mp2/aug-cc-pvtz density=current
+
+title
+
+-1 1
+O
+X       1       10.
+H(iso=2)        1       r1      2       a1
+Cl      1       r2      2       a2      3       d1
+H       1       r3      2       oop     3       d2
+Variables
+ r1=1.2
+ r2=3.07067241
+ r3=1.01772752
+ a1=90.
+ a2=90.
+ d1=103.50790746
+ d2=103.50790746
+ OOP= 90.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
